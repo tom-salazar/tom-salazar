@@ -5,5 +5,5 @@
 
 ## Tools that I Use:
 
-<img width="140" height="140" alt="Image" src="https://github.com/user-attachments/assets/82bfaee6-f511-469d-9b5c-c2f4246947cf" />
-
+<img width="110" height="110" alt="Image" src="https://github.com/user-attachments/assets/82bfaee6-f511-469d-9b5c-c2f4246947cf" />
+<img width="60" height="60" alt="Image" src="https://github.com/user-attachments/assets/cd91b9cf-4aa1-45af-af5f-72e16624f536" />
