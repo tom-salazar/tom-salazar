@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-- I’m currently learning to write sql queries to improve my database management skills and data visualization with Microsoft Power BI.
+- I’m currently learning to write sql queries to improve my data manipulation skills and data visualization with Microsoft Power BI.
 
 ## Tools that I Use:
 
